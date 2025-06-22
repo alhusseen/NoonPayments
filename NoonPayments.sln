@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NoonPayments.SDK", "NoonPayments.SDK", "{57E9301A-12E5-4750-98CA-9001DB04A3BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoonPayments.SDK", "NoonPayments.SDK\NoonPayments.SDK\NoonPayments.SDK.csproj", "{57DC7991-E2A5-E121-1622-5453F8F861EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DC7991-E2A5-E121-1622-5453F8F861EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DC7991-E2A5-E121-1622-5453F8F861EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DC7991-E2A5-E121-1622-5453F8F861EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DC7991-E2A5-E121-1622-5453F8F861EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57DC7991-E2A5-E121-1622-5453F8F861EB} = {57E9301A-12E5-4750-98CA-9001DB04A3BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B66CECC3-9DC8-4874-B90D-A1F5F6FF438E}
+	EndGlobalSection
+EndGlobal
